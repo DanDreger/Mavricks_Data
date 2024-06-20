@@ -1,0 +1,25 @@
+# List of CSV files
+game_data = [
+    '20240306-TalAndersonField-1_unverified.csv',
+    '20240315-TalAndersonField-1_unverified.csv',
+    '20240315-TalAndersonField-Private-4_unverified.csv',
+    '20240316-TalAndersonField-1_unverified.csv',
+    '20240316-TalAndersonField-2_unverified.csv',
+    '20240328-TalAndersonField-1_unverified.csv',
+    '20240329-TalAndersonField-1_unverified.csv',
+    '20240330-TalAndersonField-1_unverified.csv', 
+    '20240409-TalAndersonField-Private-1_unverified.csv',
+    '20240409-TalAndersonField-1_unverified.csv',
+    '20240410-TalAndersonField-Private-1_unverified.csv',
+    '20240410-TalAndersonField-Private-2_unverified.csv',
+    '20240412-TalAndersonField-1_unverified.csv',
+    '20240413-TalAndersonField-1_unverified.csv',
+    '20240414-TalAndersonField-1_unverified.csv',
+    '20240417-TalAndersonField-Private-1_unverified.csv',
+    '20240419-TalAndersonField-1_unverified.csv',
+    '20240420-TalAndersonField-1_unverified.csv',
+    '20240421-TalAndersonField-1_unverified.csv',
+    '20240510-TalAndersonField-1_unverified.csv',
+    '20240511-TalAndersonField-1_unverified.csv',
+    '20240512-TalAndersonField-1_unverified.csv'
+]
